@@ -1,2 +1,2 @@
-project_id = "testf101"
+project_id = "tf-seed-project1"
 region     = "us-west1"
